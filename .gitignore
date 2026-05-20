@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+venv/
+.env
+*.pyc
+__pycache__/
+playbook_product_review.egg-info/
+build/
+dist/
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +225,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+>>>>>>> 2d8733277a9412ceaf87219206224dd8f24bc590

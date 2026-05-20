@@ -1,0 +1,7 @@
+venv/
+.env
+*.pyc
+__pycache__/
+playbook_product_review.egg-info/
+build/
+dist/
